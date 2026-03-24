@@ -9,29 +9,32 @@ sidebar_position: 1
 
 ## Aruanded admin-paneelis
 
-**Tee:** `Admin Paneel` → `Aruanded`
+**Tee:** `Admin Paneel` → `Statistika`
 
-Admin-paneelis on saadaval järgmised aruanded:
+Statistika menüüs on saadaval järgmised aruanded(kohanda neid filtritega):
 
 | Aruanne | Mida näitab |
 |---------|-------------|
-| **Müük toodete järgi** | Müüdud kogused, käive, toidukulu % ja kasum toote kaupa |
-| **Müük kategooriate järgi** | Brutokäive, kasum ja toidukulu kategooriate lõikes |
-| **Müük töötajate järgi** | Töötatud aeg ja müügid töötaja kaupa |
-| **Müük jaamade järgi** | Müüdud kogused, käive ja kasum köögis ja baaris |
-| **Müük maksemeetodite järgi** | Sularaha vs kaardimakse ja muud makseviisid |
-| **Müük klientide järgi** | Käive ja keskmine tšekk kliendi/soodustuse kaupa |
-| **Müük kampaaniate järgi** | Kampaaniate mõju analüüs |
-| **Kviitungid** | Kviitungite ajalugu, filtreerimine perioodi ja staatuse järgi |
+| **Müük** | Üldine müügiaruanne — käive, kasum, toidukulu perioodide lõikes |
+| **Kliendid** | Müügid klientide kaupa, keskmine tšekk, külastuste arv |
+| **Töötajad** | Töötajate müügid, töötunnid ja tulemused |
+| **Töökojad** | Müügid jaamade/köökide lõikes (nt baar, köök) |
+| **Kategooriad** | Käive ja kasum kategooriate kaupa |
+| **Kaubad** | Müüdud kogused, käive ja kasum toote kaupa |
+| **ABC-Analüüs** | Toodete jaotus A/B/C gruppidesse käibe ja kasumi alusel |
+| **Tšekid** | Tšekkide ajalugu, filtreerimine perioodi ja staatuse järgi |
+| **Tagasiside** | Klientide tagasiside ja hinnangud |
+| **Makseviisid** | Sularaha vs kaardimakse ja muud makseviisid |
+| **Maksud** | Maksude aruanne perioodide lõikes |
 
 ---
 
 ## Aruanne kassas
 
-**Tee:** `Kassa` → `Menüü` → `Aruanne`
+**Tee:** `Kassa` → `Menüü` → `Koosta Aruanne`
 
 1. Ava **Kassa** → **Menüü**
-2. Vajuta **„Aruanne"**
+2. Vajuta **„Koosta aruanne"**
 3. Vali aruande **ajavahemik** (kuupäev ja kellaaeg)
 4. Kuvatakse valitud perioodi müügiaruanne
 

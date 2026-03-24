@@ -5,7 +5,16 @@ sidebar_label: Kassavahetus
 sidebar_position: 2
 ---
 
+import ImageSlider from '@site/src/components/ImageSlider';
+
 # Kassavahetus
+
+<ImageSlider images={[
+  { src: '/img/kassavahetus/samm1.png', alt: 'Vahetuse alustamine', caption: 'Vahetuse alustamine.' },
+  { src: '/img/kassavahetus/samm2.png', alt: 'Vahetuse alustamine', caption: 'Vahetuse alustamine.' },
+  { src: '/img/kassavahetus/samm3.png', alt: 'Vahetuse lõpetamine', caption: 'Vahetuse lõpetamine.' },
+  { src: '/img/kassavahetus/samm4.png', alt: 'Kassavahetuse kontrollimine.', caption: 'Kassavahetuse finantside kontrollimine.' },
+]} />
 
 Vahetuse alustamine ja lõpetamine kassas.
 

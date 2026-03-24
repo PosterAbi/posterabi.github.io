@@ -5,19 +5,29 @@ sidebar_label: Kliendid
 sidebar_position: 1
 ---
 
+import ImageSlider from '@site/src/components/ImageSlider';
+
 # Kliendid
+
+<ImageSlider images={[
+  { src: '/img/kliendid/samm1.png', alt: '', caption: '' },
+  { src: '/img/kliendid/samm2.png', alt: '', caption: '' },
+  { src: '/img/kliendid/samm3.png', alt: '', caption: '' },
+  { src: '/img/kliendid/samm4.png', alt: '', caption: '' },
+  { src: '/img/kliendid/samm5.png', alt: '', caption: '' },
+  { src: '/img/kliendid/samm6.png', alt: '', caption: '' },
+]} />
 
 ## Kliendibaasi loomine
 
-**Tee:** `Admin Paneel` → `Turundus` → `Kliendid`
+**Tee:** `Admin Paneel` → `Marketing` → `Kliendid`
 
 1. Ava **Admin Paneel** → **Turundus** → **Kliendid**
 2. Vajuta **„Lisa klient"**
 3. Täida vajalikud väljad:
    - **Nimi** — kliendi ees- ja perekonnanimi
-   - **Telefon** — kontaktnumber
-   - **E-post** — meili aadress (valikuline)
    - **Kliendi grupp** — vali sobiv grupp (nt "Püsiklient", "VIP" vms)
+   - **Kõik muud väljad on valikulised.**
 4. Vajuta **„Salvesta"**
 
 ### Kliendi grupid

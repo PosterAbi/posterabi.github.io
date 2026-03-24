@@ -14,7 +14,7 @@ PosterPOS tugimeeskonnaga ühenduse võtmise võimalused.
 |-------|------|
 | 📞 **Telefon** | [+372 556 025 94](tel:+37255602594) EST |
 | ✉️ **E-post** | [contact@joinposter.com](mailto:contact@joinposter.com) ENG |
-| 💬 **Live Chat** | [joinposter.com](https://joinposter.com) | ENG
+| 💬 **Live Chat** | [joinposter.com](https://joinposter.com) Lehe paremale alla nurka tekib jutumull kui seda võimalust kasutada saab.| ENG
 | 📖 **Dokumentatsioon** | [knowledge-base.joinposter.com](https://knowledge-base.joinposter.com) | ENG
 
 :::tip

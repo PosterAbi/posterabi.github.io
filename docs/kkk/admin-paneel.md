@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ## Ei pääse admin-paneeli sisse
 
-- Veendu, et kasutad õiget URL-i: `https://joinposter.com/account/`
+- Veendu, et kasutad õiget URL-i: `https://asutus.joinposter.com/`
 - Kui parool on ununenud, kasuta **"Unustasid parooli?"** linki sisselogimise lehel.
 
 ## Muudatused ei kajastu kassas
@@ -21,7 +21,7 @@ sidebar_position: 2
 
 - Veendu, et vaatad õiget **ajavahemikku** (kuupäevafiltrid lehe ülaosas).
 - Kontrolli, kas kõik kassad on **suletud** (vahetus lõpetatud) — avatud vahetuse müügid kajastuvad alles pärast sulgemist.
-- Ajavööndi vale seadistus võib nihutada päeva piiri — kontrolli **Seaded → Üldine → Ajavöönd**.
+- Ajavööndi vale seadistus võib nihutada päeva piiri — kontrolli **Seaded → Üldine → Ajavöönd**(Võta ühendust administraatoriga).
 
 ## Kasutajal puuduvad õigused / ei näe teatud sektsioone
 

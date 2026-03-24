@@ -7,8 +7,6 @@ sidebar_position: 2
 
 # Töötaja konto loomine
 
-Uue töötaja lisamiseks võta ühendust administraatoriga.
-
 :::info
 Uue töötaja konto loomiseks **saada e-kiri** või **helista** administraatorile.
 :::

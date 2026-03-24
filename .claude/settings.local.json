@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "Bash(cmdkey /list)",
+      "Bash(git -C 'c:/Users/romet.reino/Desktop/Probleemid/POSTER/Poster KnowledgeBase' config --get credential.helper)",
+      "Bash(printf \"protocol=https\\\\nhost=github.com\\\\n\")",
+      "Bash(git credential-manager:*)",
+      "Bash(gh run:*)",
+      "Bash(npm run:*)"
     ]
   }
 }
