@@ -73,30 +73,6 @@ const config: Config = {
       ],
     },
 
-    footer: {
-      style: 'light',
-      links: [
-        {
-          title: 'Juhendid',
-          items: [
-            { label: 'Avaleht',   to: '/' },
-            { label: 'Tooted',    to: '/category/tooted' },
-            { label: 'Finantsid', to: '/category/finantsid' },
-            { label: 'Kasutajad', to: '/category/kasutajad' },
-          ],
-        },
-        {
-          title: 'Tugi',
-          items: [
-            { label: 'Kontaktid',              to: '/kontaktid' },
-            { label: 'Ametlik dokumentatsioon', href: 'https://knowledge-base.joinposter.com/en/' },
-            { label: 'Live Chat',               href: 'https://joinposter.com' },
-          ],
-        },
-      ],
-      copyright: `© ${new Date().getFullYear()} Kassa Kasutusjuhend`,
-    },
-
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,

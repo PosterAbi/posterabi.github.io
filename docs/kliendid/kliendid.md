@@ -22,7 +22,7 @@ import ImageSlider from '@site/src/components/ImageSlider';
 
 **Tee:** `Admin Paneel` → `Marketing` → `Kliendid`
 
-1. Ava **Admin Paneel** → **Turundus** → **Kliendid**
+1. Ava **Admin Paneel** → **Marketing** → **Kliendid**
 2. Vajuta **„Lisa klient"**
 3. Täida vajalikud väljad:
    - **Nimi** — kliendi ees- ja perekonnanimi
@@ -32,7 +32,7 @@ import ImageSlider from '@site/src/components/ImageSlider';
 
 ### Kliendi grupid
 
-**Tee:** `Admin Paneel` → `Turundus` → `Kliendi grupid`
+**Tee:** `Admin Paneel` → `Marketing` → `Kliendi grupid`
 
 Kliendi grupid võimaldavad klientidele erinevaid soodustusi määrata:
 
